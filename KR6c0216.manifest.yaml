@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR6c0216/v1
+canonical_location: https://kanripo.org/bkk/KR6c0216/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 仁王般若實相論卷第二
+  identifiers:
+    alt_id:
+    - T85n2744
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2744.xml
+    old_id: T85n2744
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0216_000.yaml, hash: 'sha256:b3e9b3b2fc627d6ab8809b3ff31d5500c9d4f7ceb4758c6f4a778a82bdfa0eef'}
+  - {seq: 2, filename: KR6c0216_002.yaml, hash: 'sha256:a3e3144a6c52cdc3da14b3b1886d6272515761982292f00332e4ea994a5fe01a'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR6c0216_002.markers.yaml, hash: 'sha256:76591cfe9bcf797107c569eb05a41fc64311f7851453894eab794ca19d6cb9d0'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6c0216_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 8424
+  label: 仁王般若實相論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0216_T_002-mulu-1
+    span:
+    - body
+    - 769
+    - 769
+  label: 受持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0216_T_002-mulu-2
+    span:
+    - body
+    - 7186
+    - 7186
+  label: 囑累品
+  type: mulu
+  level: 1
+hash: sha256:ec96fa6c7d90d44e6ec577154af8b8d87a58aa874642d497ea635aa1ca6e7928
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

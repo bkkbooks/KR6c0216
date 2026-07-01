@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0216/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 仁王般若實相論卷第二
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2744.xml
+    old_id: T85n2744
+hash: sha256:b3e9b3b2fc627d6ab8809b3ff31d5500c9d4f7ceb4758c6f4a778a82bdfa0eef
