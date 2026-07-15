@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6c0216/v1
 canonical_location: https://kanripo.org/bkk/KR6c0216/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 仁王般若實相論卷第二
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6c0216_000.yaml, hash: 'sha256:b3e9b3b2fc627d6ab8809b3ff31d5500c9d4f7ceb4758c6f4a778a82bdfa0eef'}
-  - {seq: 2, filename: KR6c0216_002.yaml, hash: 'sha256:ec707d230bf7a3ccd8e366ad56c8de966d43b734a7e6120485192894c7a5515b'}
+  - {seq: 2, filename: KR6c0216_002.yaml, hash: 'sha256:c8b0160ba1fdcda7d65d59e6e61c35b178c818e4d0b62dcee0832998304fc6e8'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6c0216_000.markers.yaml, hash: 'sha256:72f26b9e5511dda446dad4a26fee96111a84a73b3b7961635ea82b80f9bacc1a'}
-  - {seq: 2, role: markers, filename: assets/KR6c0216_002.markers.yaml, hash: 'sha256:5232c5c296a0cd60c0c514b6c4ac579571a3e2e92b9eb5d8c4e9b8adeafe7f70'}
+  - {seq: 2, role: markers, filename: assets/KR6c0216_002.markers.yaml, hash: 'sha256:5f03618b9cc41c11383a7224779e4bfeb1b613dc1473212dd8eb0c952fb2e5dc'}
 table_of_contents:
 - ref:
     seq: 2
@@ -57,4 +57,7 @@ table_of_contents:
   label: 囑累品
   type: mulu
   level: 1
-hash: sha256:697b4856ebbc15fed5327ed8491456346e82411c58c28df036fee50eda79a7a4
+hash: sha256:f66ce895f795c07f900bc8b8da062b7b70faa7118fd073076d1e67d066805bb6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
